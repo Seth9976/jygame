@@ -1,0 +1,6 @@
+using System.Reflection;
+using System.Runtime.CompilerServices;
+
+[assembly: AssemblyVersion("0.0.0.0")]
+[module: SuppressIldasm]
+[module: ConfusedBy("Dotfuscator 2.0.0")]
